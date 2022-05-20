@@ -1,0 +1,44 @@
+.list_user {
+  align-items: center !important;
+}
+.divider {
+  margin: 0em;
+}
+
+.circle {
+  height: auto !important;
+  width: auto !important;
+  padding: 8px 5px;
+  text-align: center;
+  background: rgb(30, 0, 255, 0.2);
+  text-transform: uppercase;
+  margin-left: 20px;
+  font-size: larger;
+  font-weight: 600;
+  border-radius: 50%;
+}
+
+.delete_icon_div {
+  display: inline-flex;
+  justify-content: right;
+}
+
+.delete_icon {
+  color: rgb(30, 0, 255);
+  font-size: 30px;
+}
+.delete_icon:hover {
+  color: red;
+}
+
+.name_in_userCard {
+  color: black;
+  font-weight: bold !important;
+  text-transform: capitalize;
+}
+.position_in_userCard {
+  color: rgb(0, 0, 0, 0.9);
+  font-weight: bold !important;
+  line-height: 8px;
+  text-transform: capitalize;
+}

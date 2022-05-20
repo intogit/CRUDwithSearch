@@ -1,0 +1,33 @@
+.btn-primary{
+
+    background-color: rgb(30, 0, 255) !important;
+}
+
+.form_field{
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+    flex-wrap: wrap;
+}
+.form_field{
+  flex-grow: 16;
+}
+.name_chip_wrap{
+    border-radius: 4px;
+    padding: 4px;
+    border: 1px solid rgb(0,0,0, .2);
+    margin: 10px 0  ;
+    margin-top:0px !important;
+    margin-bottom:0px !important;
+  }
+  .searched-user{
+    border-radius: 4px;
+    padding: 4px;
+    border: 1px solid rgb(0,0,0, 0.2);
+    margin-top:0px !important;
+    margin-bottom:0px !important;
+  }
+  .setMargin0{
+      padding-left: 0px;
+      padding-right: 0px;
+  }
