@@ -38,7 +38,7 @@ var details = [
     fname: "kartikey",
     lname: "sahu",
     position: "coder",
-    email: "heykartikey@gmail.com",
+    email: "kartikey@gmail.com",
   },
 ];
 
