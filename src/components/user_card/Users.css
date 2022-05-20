@@ -37,8 +37,7 @@
   text-transform: capitalize;
 }
 .position_in_userCard {
-  color: rgb(0, 0, 0, 0.9);
+  color: rgb(0, 0, 0, 0.8);
   font-weight: bold !important;
-  line-height: 8px;
   text-transform: capitalize;
 }
