@@ -74,7 +74,7 @@ function Csm() {
     <div className=" body">
       <Head />
       <div className="container content p-4 my-4">
-        <h2 className="py-3"><b>Customer Success Mangers</b></h2>
+        <h2 className="py-3"><b>Team Success Manger</b></h2>
         <Searchbar
           addAllUsers={addNewUserDetailHandler}
           details={details}
