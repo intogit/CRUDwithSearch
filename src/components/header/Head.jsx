@@ -9,7 +9,7 @@ const Head = () => {
         </div>
         <div id="rightSize_box">
           <p className="m-0 p-0" id="first_para">
-            X-TEAM
+            TEAM-BOOK
           </p>
           <p className="m-0 p-0" id="second_para">
             Manages your team.
