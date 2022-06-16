@@ -5,9 +5,9 @@ import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 // Abhishek Yadav
 
-// github: https://github.com/intogit/spottabl_assignment
+// https://github.com/intogit/teambook
 
-// netlify: https://customersuccessmanager.netlify.app/
+// https://teambook.netlify.app/
 
 
 function App() {
