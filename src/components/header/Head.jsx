@@ -9,10 +9,10 @@ const Head = () => {
         </div>
         <div id="rightSize_box">
           <p className="m-0 p-0" id="first_para">
-            YOUR SPOTTABL TEAM
+            X-TEAM
           </p>
           <p className="m-0 p-0" id="second_para">
-            Spottabl support you all throughout
+            Manages your team.
           </p>
         </div>
       </div>
