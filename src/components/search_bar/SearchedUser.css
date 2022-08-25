@@ -3,51 +3,65 @@
 }
 
 .searchedUser:hover {
-  background-color: rgb(0, 0, 0, 0.2);
+  background-color: rgb(0, 0, 255, 0.05);
 }
 .divider {
-  margin: 0em;
+  margin: 2em;
+  color: rgb(0,0,255);
 }
 .circle_in_search {
   height: auto !important;
   width: auto !important;
-  padding: 8px 5px;
+  padding: 8px;
   text-align: center;
-  background: rgb(30, 0, 255, 0.2);
+  background: rgb(0, 0, 255, 0.1);
   text-transform: uppercase;
-  margin-left: 20px;
+  margin-right: 10px;
   font-size: larger;
   font-weight: 600;
   border-radius: 50%;
+  border: 1px  rgb(0,0,255, 0.5) solid;
 }
 
 .name-and-position {
   text-align: center;
 }
+.background_of_name_and_email{
+  background-color: rgb(0,0,255, .05);
+  border: 1px rgb(0,0,255, .5) solid;
+  border-radius: 5px;
+  padding: 4px;
+}
+
 .name_in_search {
-  color: black;
+  color: rgb(0,0,255);
   font-weight: 800 !important;
   text-transform: capitalize;
 }
 .position_in_searchDropdown {
-  padding-top: 5px;
-  color: rgb(0, 0, 0, 0.7);
-  font-weight: bold !important;
+  padding-top: 1px;
+  color: rgb(0, 0, 0);
+  /* font-weight: bold !important; */
   text-transform: capitalize;
   line-height: 8px;
-  padding-right: 10px;
 }
 
 .email_in_searchDropDown {
   padding-top: 5px;
-  color: rgb(0, 0, 0, 0.7);
-  font-weight: bold !important;
+  color: rgb(0, 0, 0);
+  /* font-weight: bold !important; */
   line-height: 8px;
 }
 
 .user-icon {
-  margin-right: 2px;
+  padding-bottom: 3px;
+  margin-right: 5px;
 }
-.dot-icon {
-  margin-right: 2px;
+.email-icon {
+  padding-bottom: 2px;
+  margin-right: 5px;
+}
+.phone-icon {
+  padding-bottom: 2px;
+  margin-right: 5px;
 }

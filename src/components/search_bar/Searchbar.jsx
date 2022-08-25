@@ -79,7 +79,7 @@ const Searchbar = (props) => {
             <div className="flex-grow-1 setMargin0">
               <input
                 type="text"
-                placeholder="Add by Name or email"
+                placeholder="Add members by Name or Email"
                 onChange={searching}
                 className="form-control"
               />
@@ -103,7 +103,7 @@ const Searchbar = (props) => {
               type="button "
               onClick={addCSM}
             >
-              Add CSM
+              Create Team
             </button>
           </div>
         </div>

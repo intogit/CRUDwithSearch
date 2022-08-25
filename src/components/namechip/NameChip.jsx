@@ -15,7 +15,7 @@ const NameChip = (props) => {
     <div>
       <div className="name-chip d-flex">
         <div className="name_in_chip">{props.details.fname + " " + props.details.lname}</div>
-        <div className="cross-icon"><MdOutlineClose size="20" type="submit" onClick={deleteuser} /></div>
+        <div className="cross-icon"><MdOutlineClose className="round-cross-icon" size="20" type="submit" onClick={deleteuser} /></div>
       </div>
     </div>
   );
